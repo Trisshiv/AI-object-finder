@@ -1,0 +1,26 @@
+body {
+    background-size: cover;
+}
+
+#header {
+    font-size: 30px;
+    width: 99.5%;
+}
+
+p {
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+}
+
+h4 {
+    color: black;
+    font-weight: bolder;
+}
+
+input {
+    width: 35%;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 10px;
+}
